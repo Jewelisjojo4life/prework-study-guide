@@ -1,0 +1,97 @@
+Script started on Fri Nov 25 14:02:53 2022
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mscript.js[27m[9D[27ms[27mc[27mr[27mi[27mp[27mt[27m.[27mj[27ms[?2004l
+zsh: command not found: script.js
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mvar topics = ['HTML', 'CSS', 'Git', 'JavaScript'];[27m
+[K
+[7mfor (var x = 0; x < topics.length; x++) {[27m[K
+[7m console.log(topics[x]);[27m[K
+[7m}[27m[K
+[K
+[7m/*[27m[K
+[7mif (topic === 'HTML') {[27m[K
+[7m console.log("Let's study HTML!");[27m[K
+[7m} else if (topic === 'CSS') {[27m[K
+[7m console.log("Let's study CSS!");[27m[K
+[7m} else if (topic === 'Git') {[27m[K
+[7m console.log("Let's study Git!");[27m[K
+[7m} else if (topic === 'JavaScript') {[27m[K
+[7m console.log("Let's study JavaScript!");[27m[K
+[7m} else {[27m[K
+[7m console.log('Please try again!');[27m[K
+[7m}[27m[K
+[7m*/[27m[K[18A[33C[27mv[27ma[27mr[27m [27mt[27mo[27mp[27mi[27mc[27ms[27m [27m=[27m [27m[[27m'[27mH[27mT[27mM[27mL[27m'[27m,[27m [27m'[27mC[27mS[27mS[27m'[27m,[27m [27m'[27mG[27mi[27mt[27m'[27m,[27m [27m'[27mJ[27ma[27mv[27ma[27mS[27mc[27mr[27mi[27mp[27mt[27m'[27m][27m;[2B[27mf[27mo[27mr[27m [27m([27mv[27ma[27mr[27m [27mx[27m [27m=[27m [27m0[27m;[27m [27mx[27m [27m<[27m [27mt[27mo[27mp[27mi[27mc[27ms[27m.[27ml[27me[27mn[27mg[27mt[27mh[27m;[27m [27mx[27m+[27m+[27m)[27m [27m{[1B[27m [27mc[27mo[27mn[27ms[27mo[27ml[27me[27m.[27ml[27mo[27mg[27m([27mt[27mo[27mp[27mi[27mc[27ms[27m[[27mx[27m][27m)[27m;[1B[27m}[2B[27m/[27m*[1B[27mi[27mf[27m [27m([27mt[27mo[27mp[27mi[27mc[27m [27m=[27m=[27m=[27m [27m'[27mH[27mT[27mM[27mL[27m'[27m)[27m [27m{[1B[27m [27mc[27mo[27mn[27ms[27mo[27ml[27me[27m.[27ml[27mo[27mg[27m([27m"[27mL[27me[27mt[27m'[27ms[27m [27ms[27mt[27mu[27md[27my[27m [27mH[27mT[27mM[27mL[27m![27m"[27m)[27m;[1B[27m}[27m [27me[27ml[27ms[27me[27m [27mi[27mf[27m [27m([27mt[27mo[27mp[27mi[27mc[27m [27m=[27m=[27m=[27m [27m'[27mC[27mS[27mS[27m'[27m)[27m [27m{[1B[27m [27mc[27mo[27mn[27ms[27mo[27ml[27me[27m.[27ml[27mo[27mg[27m([27m"[27mL[27me[27mt[27m'[27ms[27m [27ms[27mt[27mu[27md[27my[27m [27mC[27mS[27mS[27m![27m"[27m)[27m;[1B[27m}[27m [27me[27ml[27ms[27me[27m [27mi[27mf[27m [27m([27mt[27mo[27mp[27mi[27mc[27m [27m=[27m=[27m=[27m [27m'[27mG[27mi[27mt[27m'[27m)[27m [27m{[1B[27m [27mc[27mo[27mn[27ms[27mo[27ml[27me[27m.[27ml[27mo[27mg[27m([27m"[27mL[27me[27mt[27m'[27ms[27m [27ms[27mt[27mu[27md[27my[27m [27mG[27mi[27mt[27m![27m"[27m)[27m;[1B[27m}[27m [27me[27ml[27ms[27me[27m [27mi[27mf[27m [27m([27mt[27mo[27mp[27mi[27mc[27m [27m=[27m=[27m=[27m [27m'[27mJ[27ma[27mv[27ma[27mS[27mc[27mr[27mi[27mp[27mt[27m'[27m)[27m [27m{[1B[27m [27mc[27mo[27mn[27ms[27mo[27ml[27me[27m.[27ml[27mo[27mg[27m([27m"[27mL[27me[27mt[27m'[27ms[27m [27ms[27mt[27mu[27md[27my[27m [27mJ[27ma[27mv[27ma[27mS[27mc[27mr[27mi[27mp[27mt[27m![27m"[27m)[27m;[1B[27m}[27m [27me[27ml[27ms[27me[27m [27m{[1B[27m [27mc[27mo[27mn[27ms[27mo[27ml[27me[27m.[27ml[27mo[27mg[27m([27m'[27mP[27ml[27me[27ma[27ms[27me[27m [27mt[27mr[27my[27m [27ma[27mg[27ma[27mi[27mn[27m![27m'[27m)[27m;[1B[27m}[1B[27m*[K[K[K[A[1C[K[K[A[34C                                [K[K[A[8C     [K[K[A[40C                                      [K[K[A[36C                             [K[K[A[33C                               [K[K[A[29C                      [K[K[A[33C                               [K[K[A[29C                      [K[K[A[34C                                [K[K[A[23C                 i [K[K[A[2C/ [K[K[A[K[A[1C[K[K[A[24C                        [K[K[A[41C                              f [K[K[A[K[A[85C                                  [7mgit add -A[27m[10D[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m-[27mA[?2004l[1Bzsh: command not found: var
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hCCDC  ccd prewrok[?2004l
+cd: no such file or directory: prewrok
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hccd pe rework[?2004l
+cd: no such file or directory: prework
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mgit add -A[27m[10D[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m-[27mA[?2004l
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mgit commit -m “<your message here>”[27m[35D[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m“[27m<[27my[27mo[27mu[27mr[27m [27mm[27me[27ms[27ms[27ma[27mg[27me[27m [27mh[27me[27mr[27me[27m>[27m”[?2004l
+zsh: no such file or directory: your
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mmain[27m[27mm[27ma[27mi[27mn[?2004l
+zsh: command not found: main
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hccd [7mmain[27m[27mm[27ma[27mi[27mn[?2004l
+cd: no such file or directory: main
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mgit pull origin main[27m[20D[27mg[27mi[27mt[27m [27mp[27mu[27ml[27ml[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+Enter passphrase for key '/Users/Jojo/.ssh/id_ed25519': 
+From github.com:Jewelisjojo4life/prework-study-guide
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mgit push origin feature/add-js[27m[30D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mf[27me[27ma[27mt[27mu[27mr[27me[27m/[27ma[27md[27md[27m-[27mj[27ms[?2004l
+Enter passphrase for key '/Users/Jojo/.ssh/id_ed25519': 
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'feature/add-js' on GitHub by visiting:[K
+remote:      https://github.com/Jewelisjojo4life/prework-study-guide/pull/new/feature/add-js[K
+remote: 
+To github.com:Jewelisjojo4life/prework-study-guide.git
+ * [new branch]      feature/add-js -> feature/add-js
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hv[?2004l
+zsh: command not found: v
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mfeature/add-js[27m[14D[27mf[27me[27ma[27mt[27mu[27mr[27me[27m/[27ma[27md[27md[27m-[27mj[27ms[?2004l
+zsh: no such file or directory: feature/add-js
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mprework-study-guide[27m[19D[27mp[27mr[27me[27mw[27mo[27mr[27mk[27m-[27ms[27mt[27mu[27md[27my[27m-[27mg[27mu[27mi[27md[27me[?2004l
+zsh: command not found: prework-study-guide
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mgit status[27m[10D[27mg[27mi[27mt[27m [27ms[27mt[27ma[27mt[27mu[27ms[?2004l
+On branch feature/add-js
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   script.js[m
+	[32mnew file:   typescript[m
+	[32mmodified:   ../index.html[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hccd c  [7mgit status[27m[10D[27mg[27mi[27mt[27m [27ms[27mt[27ma[27mt[27mu[27ms[?2004l
+On branch feature/add-js
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   script.js[m
+	[32mnew file:   typescript[m
+	[32mmodified:   ../index.html[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hggit add [7mfeature/add-js[27m[14D[27mf[27me[27ma[27mt[27mu[27mr[27me[27m/[27ma[27md[27md[27m-[27mj[27ms[?2004l
+warning: could not open directory 'prework-study-guide/assets/feature/': No such file or directory
+fatal: pathspec 'feature/add-js' did not match any files
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004h[7mgit checkout feature/add-js[27m[27D[27mg[27mi[27mt[27m [27mc[27mh[27me[27mc[27mk[27mo[27mu[27mt[27m [27mf[27me[27ma[27mt[27mu[27mr[27me[27m/[27ma[27md[27md[27m-[27mj[27ms[?2004l
+A	prework-study-guide/assets/script.js
+A	prework-study-guide/assets/typescript
+M	prework-study-guide/index.html
+Already on 'feature/add-js'
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hvvar  v  ggit main[?2004l
+git: 'main' is not a git command. See 'git --help'.
+
+The most similar command is
+	mailinfo
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hccd [7mprework-study-guide[27m[19D[27mp[27mr[27me[27mw[27mo[27mr[27mk[27m-[27ms[27mt[27mu[27md[27my[27m-[27mg[27mu[27mi[27md[27me[?2004l
+cd: no such file or directory: prework-study-guide
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hb lls[?2004l
+bowtie-cat.png script.js      style.css      typescript
+[1m[7m%[27m[1m[0m                                                                                                   [0m[27m[24m[JJojo@Ulyssess-MacBook-Pro assets % [K[?2004hbbootc
